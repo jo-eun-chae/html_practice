@@ -1,6 +1,8 @@
 <html>
     <head>
-        <>
+        <style>
+            table
+        </style>
     </head>
     <body>
         <table>
