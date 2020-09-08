@@ -11,7 +11,6 @@
                 <th>@</th>
                 <th>Price</th>
             </thead>
-
             <tbody>
                 <tr>
                     <td>Paperclips(Box)</td>
